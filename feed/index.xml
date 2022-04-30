@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Manuel Morales</title>
-	<atom:link href="https://m-moraless.web.app/feed/" rel="self" type="application/rss+xml" />
-	<link>https://m-moraless.web.app/</link>
+	<atom:link href="https://m-morales.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://m-morales.com/</link>
 	<description></description>
 	<lastBuildDate>Sat, 30 Apr 2022 13:22:32 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
-	<url>https://m-moraless.web.app/wp-content/uploads/2022/04/ico-150x150.png</url>
+	<url>https://m-morales.com/wp-content/uploads/2022/04/ico-150x150.png</url>
 	<title>Manuel Morales</title>
-	<link>https://m-moraless.web.app/</link>
+	<link>https://m-morales.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Chañares Club House</title>
-		<link>https://m-moraless.web.app/portfolio/chanares-club-house/</link>
-					<comments>https://m-moraless.web.app/portfolio/chanares-club-house/#respond</comments>
+		<link>https://m-morales.com/portfolio/chanares-club-house/</link>
+					<comments>https://m-morales.com/portfolio/chanares-club-house/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 21:18:31 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
-		<guid isPermaLink="false">https://m-moraless.web.app/?p=365</guid>
+		<guid isPermaLink="false">https://m-morales.com/?p=365</guid>
 
 					<description><![CDATA[Diseño de logo]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="365" class="elementor elementor-365">
@@ -46,7 +46,7 @@
 								<div class="elementor-element elementor-element-4349d3b elementor-widget elementor-widget-image" data-id="4349d3b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.6.5 - 27-04-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1080" height="1080" src="https://m-moraless.web.app/wp-content/uploads/2022/04/lok.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://m-moraless.web.app/wp-content/uploads/2022/04/lok.jpg 1080w, https://m-moraless.web.app/wp-content/uploads/2022/04/lok-300x300.jpg 300w, https://m-moraless.web.app/wp-content/uploads/2022/04/lok-1024x1024.jpg 1024w, https://m-moraless.web.app/wp-content/uploads/2022/04/lok-150x150.jpg 150w, https://m-moraless.web.app/wp-content/uploads/2022/04/lok-768x768.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1080" height="1080" src="https://m-morales.com/wp-content/uploads/2022/04/lok.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://m-morales.com/wp-content/uploads/2022/04/lok.jpg 1080w, https://m-morales.com/wp-content/uploads/2022/04/lok-300x300.jpg 300w, https://m-morales.com/wp-content/uploads/2022/04/lok-1024x1024.jpg 1024w, https://m-morales.com/wp-content/uploads/2022/04/lok-150x150.jpg 150w, https://m-morales.com/wp-content/uploads/2022/04/lok-768x768.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -59,20 +59,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://m-moraless.web.app/portfolio/chanares-club-house/feed/</wfw:commentRss>
+					<wfw:commentRss>https://m-morales.com/portfolio/chanares-club-house/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Calentador de Agua</title>
-		<link>https://m-moraless.web.app/portfolio/calentador-de-agua/</link>
-					<comments>https://m-moraless.web.app/portfolio/calentador-de-agua/#respond</comments>
+		<link>https://m-morales.com/portfolio/calentador-de-agua/</link>
+					<comments>https://m-morales.com/portfolio/calentador-de-agua/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:18:19 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
-		<guid isPermaLink="false">https://m-moraless.web.app/?p=328</guid>
+		<guid isPermaLink="false">https://m-morales.com/?p=328</guid>
 
 					<description><![CDATA[Desarrollo web + Configuración TSA + SEO]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="328" class="elementor elementor-328">
@@ -92,20 +92,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://m-moraless.web.app/portfolio/calentador-de-agua/feed/</wfw:commentRss>
+					<wfw:commentRss>https://m-morales.com/portfolio/calentador-de-agua/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Shopping Fútbol Club</title>
-		<link>https://m-moraless.web.app/portfolio/shopping-futbol-club/</link>
-					<comments>https://m-moraless.web.app/portfolio/shopping-futbol-club/#respond</comments>
+		<link>https://m-morales.com/portfolio/shopping-futbol-club/</link>
+					<comments>https://m-morales.com/portfolio/shopping-futbol-club/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:18:02 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
-		<guid isPermaLink="false">https://m-moraless.web.app/?p=326</guid>
+		<guid isPermaLink="false">https://m-morales.com/?p=326</guid>
 
 					<description><![CDATA[Contenidos para redes sociales]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="326" class="elementor elementor-326">
@@ -128,20 +128,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://m-moraless.web.app/portfolio/shopping-futbol-club/feed/</wfw:commentRss>
+					<wfw:commentRss>https://m-morales.com/portfolio/shopping-futbol-club/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Crossfit Mega</title>
-		<link>https://m-moraless.web.app/portfolio/crossfit-mega/</link>
-					<comments>https://m-moraless.web.app/portfolio/crossfit-mega/#respond</comments>
+		<link>https://m-morales.com/portfolio/crossfit-mega/</link>
+					<comments>https://m-morales.com/portfolio/crossfit-mega/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:17:37 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
-		<guid isPermaLink="false">https://m-moraless.web.app/?p=324</guid>
+		<guid isPermaLink="false">https://m-morales.com/?p=324</guid>
 
 					<description><![CDATA[Contenidos para redes sociales]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="324" class="elementor elementor-324">
@@ -164,20 +164,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://m-moraless.web.app/portfolio/crossfit-mega/feed/</wfw:commentRss>
+					<wfw:commentRss>https://m-morales.com/portfolio/crossfit-mega/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Patio Azul</title>
-		<link>https://m-moraless.web.app/portfolio/patio-azul/</link>
-					<comments>https://m-moraless.web.app/portfolio/patio-azul/#respond</comments>
+		<link>https://m-morales.com/portfolio/patio-azul/</link>
+					<comments>https://m-morales.com/portfolio/patio-azul/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:17:23 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
-		<guid isPermaLink="false">https://m-moraless.web.app/?p=322</guid>
+		<guid isPermaLink="false">https://m-morales.com/?p=322</guid>
 
 					<description><![CDATA[Contenidos para redes sociales]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="322" class="elementor elementor-322">
@@ -204,20 +204,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://m-moraless.web.app/portfolio/patio-azul/feed/</wfw:commentRss>
+					<wfw:commentRss>https://m-morales.com/portfolio/patio-azul/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Delivery de Mascotas</title>
-		<link>https://m-moraless.web.app/portfolio/delivery-de-mascotas/</link>
-					<comments>https://m-moraless.web.app/portfolio/delivery-de-mascotas/#respond</comments>
+		<link>https://m-morales.com/portfolio/delivery-de-mascotas/</link>
+					<comments>https://m-morales.com/portfolio/delivery-de-mascotas/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:17:03 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
-		<guid isPermaLink="false">https://m-moraless.web.app/?p=320</guid>
+		<guid isPermaLink="false">https://m-morales.com/?p=320</guid>
 
 					<description><![CDATA[Branding y contenidos para redes sociales.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="320" class="elementor elementor-320">
@@ -227,7 +227,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-50f74aa elementor-widget elementor-widget-image" data-id="50f74aa" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="600" height="2210" src="https://m-moraless.web.app/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://m-moraless.web.app/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c.png 600w, https://m-moraless.web.app/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c-278x1024.png 278w, https://m-moraless.web.app/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c-417x1536.png 417w, https://m-moraless.web.app/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c-556x2048.png 556w" sizes="(max-width: 600px) 100vw, 600px" />															</div>
+															<img width="600" height="2210" src="https://m-morales.com/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://m-morales.com/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c.png 600w, https://m-morales.com/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c-278x1024.png 278w, https://m-morales.com/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c-417x1536.png 417w, https://m-morales.com/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c-556x2048.png 556w" sizes="(max-width: 600px) 100vw, 600px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -240,20 +240,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://m-moraless.web.app/portfolio/delivery-de-mascotas/feed/</wfw:commentRss>
+					<wfw:commentRss>https://m-morales.com/portfolio/delivery-de-mascotas/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Productora Levels</title>
-		<link>https://m-moraless.web.app/portfolio/productora-levels/</link>
-					<comments>https://m-moraless.web.app/portfolio/productora-levels/#respond</comments>
+		<link>https://m-morales.com/portfolio/productora-levels/</link>
+					<comments>https://m-morales.com/portfolio/productora-levels/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:16:49 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
-		<guid isPermaLink="false">https://m-moraless.web.app/?p=318</guid>
+		<guid isPermaLink="false">https://m-morales.com/?p=318</guid>
 
 					<description><![CDATA[Contenidos para redes sociales]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="318" class="elementor elementor-318">
@@ -298,7 +298,7 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://m-moraless.web.app/portfolio/productora-levels/feed/</wfw:commentRss>
+					<wfw:commentRss>https://m-morales.com/portfolio/productora-levels/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		<enclosure url="https://res.cloudinary.com/focuslearn/video/upload/v1651322873/mmorales/22_gev38g.mp4" length="75444817" type="video/mp4" />
@@ -307,13 +307,13 @@
 			</item>
 		<item>
 		<title>Vkus Ucrania</title>
-		<link>https://m-moraless.web.app/portfolio/vkus-ucrania/</link>
-					<comments>https://m-moraless.web.app/portfolio/vkus-ucrania/#respond</comments>
+		<link>https://m-morales.com/portfolio/vkus-ucrania/</link>
+					<comments>https://m-morales.com/portfolio/vkus-ucrania/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:16:32 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
-		<guid isPermaLink="false">https://m-moraless.web.app/?p=316</guid>
+		<guid isPermaLink="false">https://m-morales.com/?p=316</guid>
 
 					<description><![CDATA[Branding y desarrollo web + e-commerce]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="316" class="elementor elementor-316">
@@ -332,20 +332,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://m-moraless.web.app/portfolio/vkus-ucrania/feed/</wfw:commentRss>
+					<wfw:commentRss>https://m-morales.com/portfolio/vkus-ucrania/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Burger Inc</title>
-		<link>https://m-moraless.web.app/portfolio/burger-inc/</link>
-					<comments>https://m-moraless.web.app/portfolio/burger-inc/#respond</comments>
+		<link>https://m-morales.com/portfolio/burger-inc/</link>
+					<comments>https://m-morales.com/portfolio/burger-inc/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:16:09 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
-		<guid isPermaLink="false">https://m-moraless.web.app/?p=314</guid>
+		<guid isPermaLink="false">https://m-morales.com/?p=314</guid>
 
 					<description><![CDATA[Creación de contenidos para redes sociales, community manager y desarrollo web.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="314" class="elementor elementor-314">
@@ -355,15 +355,15 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-e1f5f0f elementor-widget elementor-widget-image" data-id="e1f5f0f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="1024" src="https://m-moraless.web.app/wp-content/uploads/2022/04/3-1-1024x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://m-moraless.web.app/wp-content/uploads/2022/04/3-1-1024x1024.png 1024w, https://m-moraless.web.app/wp-content/uploads/2022/04/3-1-300x300.png 300w, https://m-moraless.web.app/wp-content/uploads/2022/04/3-1-150x150.png 150w, https://m-moraless.web.app/wp-content/uploads/2022/04/3-1-768x768.png 768w, https://m-moraless.web.app/wp-content/uploads/2022/04/3-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+															<img width="1024" height="1024" src="https://m-morales.com/wp-content/uploads/2022/04/3-1-1024x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://m-morales.com/wp-content/uploads/2022/04/3-1-1024x1024.png 1024w, https://m-morales.com/wp-content/uploads/2022/04/3-1-300x300.png 300w, https://m-morales.com/wp-content/uploads/2022/04/3-1-150x150.png 150w, https://m-morales.com/wp-content/uploads/2022/04/3-1-768x768.png 768w, https://m-morales.com/wp-content/uploads/2022/04/3-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-94ad9e6 elementor-widget elementor-widget-image" data-id="94ad9e6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="1024" src="https://m-moraless.web.app/wp-content/uploads/2022/04/1-1-1024x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://m-moraless.web.app/wp-content/uploads/2022/04/1-1-1024x1024.png 1024w, https://m-moraless.web.app/wp-content/uploads/2022/04/1-1-300x300.png 300w, https://m-moraless.web.app/wp-content/uploads/2022/04/1-1-150x150.png 150w, https://m-moraless.web.app/wp-content/uploads/2022/04/1-1-768x768.png 768w, https://m-moraless.web.app/wp-content/uploads/2022/04/1-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+															<img width="1024" height="1024" src="https://m-morales.com/wp-content/uploads/2022/04/1-1-1024x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://m-morales.com/wp-content/uploads/2022/04/1-1-1024x1024.png 1024w, https://m-morales.com/wp-content/uploads/2022/04/1-1-300x300.png 300w, https://m-morales.com/wp-content/uploads/2022/04/1-1-150x150.png 150w, https://m-morales.com/wp-content/uploads/2022/04/1-1-768x768.png 768w, https://m-morales.com/wp-content/uploads/2022/04/1-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-4b6886b elementor-widget elementor-widget-image" data-id="4b6886b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="1024" src="https://m-moraless.web.app/wp-content/uploads/2022/04/2-1-1024x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://m-moraless.web.app/wp-content/uploads/2022/04/2-1-1024x1024.png 1024w, https://m-moraless.web.app/wp-content/uploads/2022/04/2-1-300x300.png 300w, https://m-moraless.web.app/wp-content/uploads/2022/04/2-1-150x150.png 150w, https://m-moraless.web.app/wp-content/uploads/2022/04/2-1-768x768.png 768w, https://m-moraless.web.app/wp-content/uploads/2022/04/2-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+															<img width="1024" height="1024" src="https://m-morales.com/wp-content/uploads/2022/04/2-1-1024x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://m-morales.com/wp-content/uploads/2022/04/2-1-1024x1024.png 1024w, https://m-morales.com/wp-content/uploads/2022/04/2-1-300x300.png 300w, https://m-morales.com/wp-content/uploads/2022/04/2-1-150x150.png 150w, https://m-morales.com/wp-content/uploads/2022/04/2-1-768x768.png 768w, https://m-morales.com/wp-content/uploads/2022/04/2-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -376,20 +376,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://m-moraless.web.app/portfolio/burger-inc/feed/</wfw:commentRss>
+					<wfw:commentRss>https://m-morales.com/portfolio/burger-inc/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hostal Viena</title>
-		<link>https://m-moraless.web.app/portfolio/hostal-viena/</link>
-					<comments>https://m-moraless.web.app/portfolio/hostal-viena/#respond</comments>
+		<link>https://m-morales.com/portfolio/hostal-viena/</link>
+					<comments>https://m-morales.com/portfolio/hostal-viena/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:15:53 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
-		<guid isPermaLink="false">https://m-moraless.web.app/?p=312</guid>
+		<guid isPermaLink="false">https://m-morales.com/?p=312</guid>
 
 					<description><![CDATA[Desarrollo web + Motor de reservas]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="312" class="elementor elementor-312">
@@ -409,7 +409,7 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://m-moraless.web.app/portfolio/hostal-viena/feed/</wfw:commentRss>
+					<wfw:commentRss>https://m-morales.com/portfolio/hostal-viena/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

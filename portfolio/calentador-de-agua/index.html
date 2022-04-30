@@ -40,8 +40,8 @@ img.emoji {
 <link rel="stylesheet" id="elementor-pro-css" href="https://m-morales.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.4.2" media="all">
 <link rel="stylesheet" id="elementor-global-css" href="https://m-morales.com/wp-content/uploads/elementor/css/global.css?ver=1651244643" media="all">
 <link rel="stylesheet" id="elementor-post-328-css" href="https://m-morales.com/wp-content/uploads/elementor/css/post-328.css?ver=1651274612" media="all">
-<link rel="stylesheet" id="elementor-post-10-css" href="https://m-morales.com/wp-content/uploads/elementor/css/post-10.css?ver=1651259663" media="all">
-<link rel="stylesheet" id="elementor-post-26-css" href="https://m-morales.com/wp-content/uploads/elementor/css/post-26.css?ver=1651262301" media="all">
+<link rel="stylesheet" id="elementor-post-10-css" href="https://m-morales.com/wp-content/uploads/elementor/css/post-10.css?ver=1651356495" media="all">
+<link rel="stylesheet" id="elementor-post-26-css" href="https://m-morales.com/wp-content/uploads/elementor/css/post-26.css?ver=1651356471" media="all">
 <link rel="stylesheet" id="elementor-post-368-css" href="https://m-morales.com/wp-content/uploads/elementor/css/post-368.css?ver=1651269041" media="all">
 <link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.9.3" media="all">
 <link rel="stylesheet" id="elementor-icons-shared-0-css" href="https://m-morales.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" media="all">
@@ -98,6 +98,68 @@ flexibility(document.documentElement);
 }
 ::-webkit-scrollbar-corner {
   background: transparent;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+* {
+  cursor: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  position: relative;
+  text-decoration: none;
+}
+
+a:after {
+  background: black;
+  transition: width .3s ease;
+}
+
+a:hover:after{
+  background: black;
+}
+
+.cursor {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  border: 1px solid grey;
+  transition: all 200ms ease-out;
+  position: fixed;
+  pointer-events: none;
+  left: 0;
+  top: 0;
+  transform: translate(calc(-50% + 15px), -50%);
+	z-index:10;
+}
+
+.cursor2 {
+  width: 5px;
+  height: 5px;
+  border-radius: 100%;
+  background-color: black;
+  opacity: .3;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  transition: width .3s, height .3s, opacity .3s;
+	z-index:10;
+}
+
+.hover {
+  background-color: transparent;
+  Backdrop-Filter:invert(1)saturate(0);
+  border:1px solid black;
+}
+
+.cursorinnerhover {
+  width: 50px;
+  height: 50px;
+  opacity: .5;
 }</style>
 		</head>
 
@@ -139,6 +201,19 @@ flexibility(document.documentElement);
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://m-morales.com/skills/" class="elementor-item menu-link" tabindex="-1">Habilidades</a></li>
 </ul></nav>
 				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-67ac5ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="67ac5ff" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b6f2274" data-id="b6f2274" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e761386 elementor-widget elementor-widget-html" data-id="e761386" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div class="cursor"></div>
+<div class="cursor2"></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -361,6 +436,19 @@ flexibility(document.documentElement);
 			<div class="elementor-spacer-inner"></div>
 		</div>
 				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a94f443 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a94f443" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-419e0b3" data-id="419e0b3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d5f7c27 elementor-widget elementor-widget-text-editor" data-id="d5f7c27" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<script src="https://m-morales.com/js/main.js"></script>
+						</div>
 				</div>
 					</div>
 		</div>

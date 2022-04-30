@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Manuel Morales</title>
+	<atom:link href="https://m-moraless.web.app/feed/" rel="self" type="application/rss+xml" />
+	<link>https://m-moraless.web.app/</link>
+	<description></description>
+	<lastBuildDate>Sat, 30 Apr 2022 13:22:32 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>https://m-moraless.web.app/wp-content/uploads/2022/04/ico-150x150.png</url>
+	<title>Manuel Morales</title>
+	<link>https://m-moraless.web.app/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Chañares Club House</title>
+		<link>https://m-moraless.web.app/portfolio/chanares-club-house/</link>
+					<comments>https://m-moraless.web.app/portfolio/chanares-club-house/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2022 21:18:31 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<guid isPermaLink="false">https://m-moraless.web.app/?p=365</guid>
+
+					<description><![CDATA[Diseño de logo]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="365" class="elementor elementor-365">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-ab43235 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab43235" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9fb06dc" data-id="9fb06dc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4349d3b elementor-widget elementor-widget-image" data-id="4349d3b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1080" height="1080" src="https://m-moraless.web.app/wp-content/uploads/2022/04/lok.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://m-moraless.web.app/wp-content/uploads/2022/04/lok.jpg 1080w, https://m-moraless.web.app/wp-content/uploads/2022/04/lok-300x300.jpg 300w, https://m-moraless.web.app/wp-content/uploads/2022/04/lok-1024x1024.jpg 1024w, https://m-moraless.web.app/wp-content/uploads/2022/04/lok-150x150.jpg 150w, https://m-moraless.web.app/wp-content/uploads/2022/04/lok-768x768.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bcef431" data-id="bcef431" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://m-moraless.web.app/portfolio/chanares-club-house/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Calentador de Agua</title>
+		<link>https://m-moraless.web.app/portfolio/calentador-de-agua/</link>
+					<comments>https://m-moraless.web.app/portfolio/calentador-de-agua/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2022 20:18:19 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<guid isPermaLink="false">https://m-moraless.web.app/?p=328</guid>
+
+					<description><![CDATA[Desarrollo web + Configuración TSA + SEO]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="328" class="elementor elementor-328">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-8011a38 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8011a38" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0d8522b" data-id="0d8522b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ab0b528 elementor-widget elementor-widget-html" data-id="ab0b528" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<iframe src="https://calentadordeagua.store/" height="800" >
+</iframe>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://m-moraless.web.app/portfolio/calentador-de-agua/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Shopping Fútbol Club</title>
+		<link>https://m-moraless.web.app/portfolio/shopping-futbol-club/</link>
+					<comments>https://m-moraless.web.app/portfolio/shopping-futbol-club/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2022 20:18:02 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<guid isPermaLink="false">https://m-moraless.web.app/?p=326</guid>
+
+					<description><![CDATA[Contenidos para redes sociales]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="326" class="elementor elementor-326">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-80614e2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="80614e2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-53ffbae" data-id="53ffbae" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-049b2a2 elementor-widget elementor-widget-image" data-id="049b2a2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://res.cloudinary.com/focuslearn/image/upload/q_44/v1651322903/mmorales/3_ewr5il.png" title="" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-05caeda" data-id="05caeda" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://m-moraless.web.app/portfolio/shopping-futbol-club/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Crossfit Mega</title>
+		<link>https://m-moraless.web.app/portfolio/crossfit-mega/</link>
+					<comments>https://m-moraless.web.app/portfolio/crossfit-mega/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2022 20:17:37 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<guid isPermaLink="false">https://m-moraless.web.app/?p=324</guid>
+
+					<description><![CDATA[Contenidos para redes sociales]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="324" class="elementor elementor-324">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-1e6f138 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1e6f138" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-74b975d" data-id="74b975d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fd159c3 elementor-widget elementor-widget-image" data-id="fd159c3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://res.cloudinary.com/focuslearn/image/upload/q_43/v1651323431/mmorales/mega_jg9i8k.png" title="" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6653f41" data-id="6653f41" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://m-moraless.web.app/portfolio/crossfit-mega/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Patio Azul</title>
+		<link>https://m-moraless.web.app/portfolio/patio-azul/</link>
+					<comments>https://m-moraless.web.app/portfolio/patio-azul/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2022 20:17:23 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<guid isPermaLink="false">https://m-moraless.web.app/?p=322</guid>
+
+					<description><![CDATA[Contenidos para redes sociales]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="322" class="elementor elementor-322">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-302679b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="302679b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1fc1511" data-id="1fc1511" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c10841b elementor-widget elementor-widget-image" data-id="c10841b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://res.cloudinary.com/focuslearn/image/upload/q_48/v1651323618/mmorales/patio_5_gbnzie.png" title="" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-5dc9393 elementor-widget elementor-widget-image" data-id="5dc9393" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://res.cloudinary.com/focuslearn/image/upload/q_52/v1651323006/mmorales/734_szwjz6.png" title="" alt="" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b432833" data-id="b432833" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://m-moraless.web.app/portfolio/patio-azul/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Delivery de Mascotas</title>
+		<link>https://m-moraless.web.app/portfolio/delivery-de-mascotas/</link>
+					<comments>https://m-moraless.web.app/portfolio/delivery-de-mascotas/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2022 20:17:03 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<guid isPermaLink="false">https://m-moraless.web.app/?p=320</guid>
+
+					<description><![CDATA[Branding y contenidos para redes sociales.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="320" class="elementor elementor-320">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-802f4c1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="802f4c1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-49fe2c6" data-id="49fe2c6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-50f74aa elementor-widget elementor-widget-image" data-id="50f74aa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="600" height="2210" src="https://m-moraless.web.app/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://m-moraless.web.app/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c.png 600w, https://m-moraless.web.app/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c-278x1024.png 278w, https://m-moraless.web.app/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c-417x1536.png 417w, https://m-moraless.web.app/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c-556x2048.png 556w" sizes="(max-width: 600px) 100vw, 600px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7bf01d6" data-id="7bf01d6" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://m-moraless.web.app/portfolio/delivery-de-mascotas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Productora Levels</title>
+		<link>https://m-moraless.web.app/portfolio/productora-levels/</link>
+					<comments>https://m-moraless.web.app/portfolio/productora-levels/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2022 20:16:49 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<guid isPermaLink="false">https://m-moraless.web.app/?p=318</guid>
+
+					<description><![CDATA[Contenidos para redes sociales]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="318" class="elementor elementor-318">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-170cbe6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="170cbe6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e4dd704" data-id="e4dd704" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9f813ff elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="9f813ff" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;11&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.5 - 27-04-2022 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;-webkit-transform:translateZ(0);transform:translateZ(0)}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}</style>		<div class="e-hosted-video elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://res.cloudinary.com/focuslearn/video/upload/v1651322873/mmorales/22_gev38g.mp4" loop="" controls="" muted="muted" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8a7c1c4 elementor-widget elementor-widget-image" data-id="8a7c1c4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://res.cloudinary.com/focuslearn/image/upload/q_41/v1651322876/mmorales/222_knyqpf.png" title="" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c4257f4 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="c4257f4" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://res.cloudinary.com/focuslearn/video/upload/q_44/v1651324515/mmorales/RGB_nn6peq.mp4" loop="" controls="" muted="muted" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-fae8d15 elementor-aspect-ratio-11 elementor-widget elementor-widget-video" data-id="fae8d15" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;11&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+					<video class="elementor-video" src="https://res.cloudinary.com/focuslearn/video/upload/v1651324573/mmorales/timer_geefa3.mp4" controls="" muted="muted" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8f5b16f" data-id="8f5b16f" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://m-moraless.web.app/portfolio/productora-levels/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://res.cloudinary.com/focuslearn/video/upload/v1651322873/mmorales/22_gev38g.mp4" length="75444817" type="video/mp4" />
+<enclosure url="https://res.cloudinary.com/focuslearn/video/upload/q_44/v1651324515/mmorales/RGB_nn6peq.mp4https://res.cloudinary.com/focuslearn/video/upload/v1651324573/mmorales/timer_geefa3.mp4" length="0" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Vkus Ucrania</title>
+		<link>https://m-moraless.web.app/portfolio/vkus-ucrania/</link>
+					<comments>https://m-moraless.web.app/portfolio/vkus-ucrania/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2022 20:16:32 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<guid isPermaLink="false">https://m-moraless.web.app/?p=316</guid>
+
+					<description><![CDATA[Branding y desarrollo web + e-commerce]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="316" class="elementor elementor-316">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-69f0287 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="69f0287" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7808e71" data-id="7808e71" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b614830 elementor-widget elementor-widget-html" data-id="b614830" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<iframe src="https://vkus-niko.web.app/" height="800"></iframe> </iframe>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://m-moraless.web.app/portfolio/vkus-ucrania/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Burger Inc</title>
+		<link>https://m-moraless.web.app/portfolio/burger-inc/</link>
+					<comments>https://m-moraless.web.app/portfolio/burger-inc/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2022 20:16:09 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<guid isPermaLink="false">https://m-moraless.web.app/?p=314</guid>
+
+					<description><![CDATA[Creación de contenidos para redes sociales, community manager y desarrollo web.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="314" class="elementor elementor-314">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-129961a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="129961a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-92b5920" data-id="92b5920" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e1f5f0f elementor-widget elementor-widget-image" data-id="e1f5f0f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1024" height="1024" src="https://m-moraless.web.app/wp-content/uploads/2022/04/3-1-1024x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://m-moraless.web.app/wp-content/uploads/2022/04/3-1-1024x1024.png 1024w, https://m-moraless.web.app/wp-content/uploads/2022/04/3-1-300x300.png 300w, https://m-moraless.web.app/wp-content/uploads/2022/04/3-1-150x150.png 150w, https://m-moraless.web.app/wp-content/uploads/2022/04/3-1-768x768.png 768w, https://m-moraless.web.app/wp-content/uploads/2022/04/3-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-94ad9e6 elementor-widget elementor-widget-image" data-id="94ad9e6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1024" height="1024" src="https://m-moraless.web.app/wp-content/uploads/2022/04/1-1-1024x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://m-moraless.web.app/wp-content/uploads/2022/04/1-1-1024x1024.png 1024w, https://m-moraless.web.app/wp-content/uploads/2022/04/1-1-300x300.png 300w, https://m-moraless.web.app/wp-content/uploads/2022/04/1-1-150x150.png 150w, https://m-moraless.web.app/wp-content/uploads/2022/04/1-1-768x768.png 768w, https://m-moraless.web.app/wp-content/uploads/2022/04/1-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-4b6886b elementor-widget elementor-widget-image" data-id="4b6886b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1024" height="1024" src="https://m-moraless.web.app/wp-content/uploads/2022/04/2-1-1024x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://m-moraless.web.app/wp-content/uploads/2022/04/2-1-1024x1024.png 1024w, https://m-moraless.web.app/wp-content/uploads/2022/04/2-1-300x300.png 300w, https://m-moraless.web.app/wp-content/uploads/2022/04/2-1-150x150.png 150w, https://m-moraless.web.app/wp-content/uploads/2022/04/2-1-768x768.png 768w, https://m-moraless.web.app/wp-content/uploads/2022/04/2-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9976503" data-id="9976503" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://m-moraless.web.app/portfolio/burger-inc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hostal Viena</title>
+		<link>https://m-moraless.web.app/portfolio/hostal-viena/</link>
+					<comments>https://m-moraless.web.app/portfolio/hostal-viena/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2022 20:15:53 +0000</pubDate>
+				<category><![CDATA[Portfolio]]></category>
+		<guid isPermaLink="false">https://m-moraless.web.app/?p=312</guid>
+
+					<description><![CDATA[Desarrollo web + Motor de reservas]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="312" class="elementor elementor-312">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-fbc0122 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fbc0122" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-99543eb" data-id="99543eb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b1dbbae elementor-widget elementor-widget-html" data-id="b1dbbae" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<iframe src="https://hostalviena.es/" height="800" ></iframe>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://m-moraless.web.app/portfolio/hostal-viena/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

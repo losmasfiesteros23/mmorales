@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
-	<url>https://m-morales.com/wp-content/uploads/2022/04/ico-150x150.png</url>
+	<url>https://res.cloudinary.com/focuslearn/images/w_150,h_150,c_fill/f_auto,q_auto/v1651507028/ico/ico.png?_i=AA</url>
 	<title>Manuel Morales</title>
 	<link>https://m-morales.com/</link>
 	<width>32</width>
@@ -32,7 +32,7 @@
 		<link>https://m-morales.com/portfolio/chanares-club-house/</link>
 					<comments>https://m-morales.com/portfolio/chanares-club-house/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Manuel Morales]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 21:18:31 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://m-morales.com/?p=365</guid>
@@ -48,7 +48,7 @@
 								<div class="elementor-element elementor-element-4349d3b elementor-widget elementor-widget-image" data-id="4349d3b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.6.5 - 27-04-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1080" height="1080" src="https://m-morales.com/wp-content/uploads/2022/04/lok.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://m-morales.com/wp-content/uploads/2022/04/lok.jpg 1080w, https://m-morales.com/wp-content/uploads/2022/04/lok-300x300.jpg 300w, https://m-morales.com/wp-content/uploads/2022/04/lok-1024x1024.jpg 1024w, https://m-morales.com/wp-content/uploads/2022/04/lok-150x150.jpg 150w, https://m-morales.com/wp-content/uploads/2022/04/lok-768x768.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1080" height="1080" src="data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;1080&quot; height=&quot;1080&quot;&gt;&lt;rect width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;animate attributeName=&quot;fill&quot; values=&quot;rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)&quot; dur=&quot;2s&quot; repeatCount=&quot;indefinite&quot; /&gt;&lt;/rect&gt;&lt;/svg&gt;" class="attachment-full size-full wp-image-519" alt="" loading="lazy" data-public-id="lok.jpg" data-format="jpg" data-transformations="f_auto,q_auto" data-version="1651507112" data-responsive="1" data-size="1080 1080" data-delivery="upload" onload=";window.CLDBind?CLDBind(this):null;" data-cloudinary="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -72,7 +72,7 @@
 		<link>https://m-morales.com/portfolio/calentador-de-agua/</link>
 					<comments>https://m-morales.com/portfolio/calentador-de-agua/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Manuel Morales]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:18:19 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://m-morales.com/?p=328</guid>
@@ -108,7 +108,7 @@
 		<link>https://m-morales.com/portfolio/shopping-futbol-club/</link>
 					<comments>https://m-morales.com/portfolio/shopping-futbol-club/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Manuel Morales]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:18:02 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://m-morales.com/?p=326</guid>
@@ -147,7 +147,7 @@
 		<link>https://m-morales.com/portfolio/crossfit-mega/</link>
 					<comments>https://m-morales.com/portfolio/crossfit-mega/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Manuel Morales]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:17:37 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://m-morales.com/?p=324</guid>
@@ -186,7 +186,7 @@
 		<link>https://m-morales.com/portfolio/patio-azul/</link>
 					<comments>https://m-morales.com/portfolio/patio-azul/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Manuel Morales]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:17:23 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://m-morales.com/?p=322</guid>
@@ -229,7 +229,7 @@
 		<link>https://m-morales.com/portfolio/delivery-de-mascotas/</link>
 					<comments>https://m-morales.com/portfolio/delivery-de-mascotas/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Manuel Morales]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:17:03 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://m-morales.com/?p=320</guid>
@@ -244,7 +244,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-50f74aa elementor-widget elementor-widget-image" data-id="50f74aa" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="600" height="2210" src="https://m-morales.com/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://m-morales.com/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c.png 600w, https://m-morales.com/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c-278x1024.png 278w, https://m-morales.com/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c-417x1536.png 417w, https://m-morales.com/wp-content/uploads/2022/04/c5053c107026877.5f9d6b2a82c1c-556x2048.png 556w" sizes="(max-width: 600px) 100vw, 600px" />															</div>
+															<img width="600" height="2210" src="data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;600&quot; height=&quot;2210&quot;&gt;&lt;rect width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;animate attributeName=&quot;fill&quot; values=&quot;rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)&quot; dur=&quot;2s&quot; repeatCount=&quot;indefinite&quot; /&gt;&lt;/rect&gt;&lt;/svg&gt;" class="attachment-full size-full wp-image-483" alt="" loading="lazy" data-public-id="c5053c107026877.5f9d6b2a82c1c.png" data-format="png" data-transformations="f_auto,q_auto" data-version="1651507124" data-responsive="1" data-size="600 2210" data-delivery="upload" onload=";window.CLDBind?CLDBind(this):null;" data-cloudinary="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -268,7 +268,7 @@
 		<link>https://m-morales.com/portfolio/productora-levels/</link>
 					<comments>https://m-morales.com/portfolio/productora-levels/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Manuel Morales]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:16:49 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://m-morales.com/?p=318</guid>
@@ -331,7 +331,7 @@
 		<link>https://m-morales.com/portfolio/vkus-ucrania/</link>
 					<comments>https://m-morales.com/portfolio/vkus-ucrania/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Manuel Morales]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:16:32 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://m-morales.com/?p=316</guid>
@@ -366,7 +366,7 @@
 		<link>https://m-morales.com/portfolio/burger-inc/</link>
 					<comments>https://m-morales.com/portfolio/burger-inc/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Manuel Morales]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:16:09 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://m-morales.com/?p=314</guid>
@@ -381,15 +381,15 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-e1f5f0f elementor-widget elementor-widget-image" data-id="e1f5f0f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="1024" src="https://m-morales.com/wp-content/uploads/2022/04/3-1-1024x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://m-morales.com/wp-content/uploads/2022/04/3-1-1024x1024.png 1024w, https://m-morales.com/wp-content/uploads/2022/04/3-1-300x300.png 300w, https://m-morales.com/wp-content/uploads/2022/04/3-1-150x150.png 150w, https://m-morales.com/wp-content/uploads/2022/04/3-1-768x768.png 768w, https://m-morales.com/wp-content/uploads/2022/04/3-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+															<img width="1024" height="1024" src="data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;rect width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;animate attributeName=&quot;fill&quot; values=&quot;rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)&quot; dur=&quot;2s&quot; repeatCount=&quot;indefinite&quot; /&gt;&lt;/rect&gt;&lt;/svg&gt;" class="attachment-large size-large wp-image-452" alt="" loading="lazy" data-public-id="3-1.png" data-format="png" data-transformations="f_auto,q_auto" data-version="1651507159" data-responsive="1" data-size="1080 1080" data-delivery="upload" onload=";window.CLDBind?CLDBind(this):null;" data-cloudinary="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-94ad9e6 elementor-widget elementor-widget-image" data-id="94ad9e6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="1024" src="https://m-morales.com/wp-content/uploads/2022/04/1-1-1024x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://m-morales.com/wp-content/uploads/2022/04/1-1-1024x1024.png 1024w, https://m-morales.com/wp-content/uploads/2022/04/1-1-300x300.png 300w, https://m-morales.com/wp-content/uploads/2022/04/1-1-150x150.png 150w, https://m-morales.com/wp-content/uploads/2022/04/1-1-768x768.png 768w, https://m-morales.com/wp-content/uploads/2022/04/1-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+															<img width="1024" height="1024" src="data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;rect width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;animate attributeName=&quot;fill&quot; values=&quot;rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)&quot; dur=&quot;2s&quot; repeatCount=&quot;indefinite&quot; /&gt;&lt;/rect&gt;&lt;/svg&gt;" class="attachment-large size-large wp-image-450" alt="" loading="lazy" data-public-id="1-1.png" data-format="png" data-transformations="f_auto,q_auto" data-version="1651507213" data-responsive="1" data-size="1080 1080" data-delivery="upload" onload=";window.CLDBind?CLDBind(this):null;" data-cloudinary="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-4b6886b elementor-widget elementor-widget-image" data-id="4b6886b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="1024" src="https://m-morales.com/wp-content/uploads/2022/04/2-1-1024x1024.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://m-morales.com/wp-content/uploads/2022/04/2-1-1024x1024.png 1024w, https://m-morales.com/wp-content/uploads/2022/04/2-1-300x300.png 300w, https://m-morales.com/wp-content/uploads/2022/04/2-1-150x150.png 150w, https://m-morales.com/wp-content/uploads/2022/04/2-1-768x768.png 768w, https://m-morales.com/wp-content/uploads/2022/04/2-1.png 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+															<img width="1024" height="1024" src="data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;1024&quot; height=&quot;1024&quot;&gt;&lt;rect width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;animate attributeName=&quot;fill&quot; values=&quot;rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)&quot; dur=&quot;2s&quot; repeatCount=&quot;indefinite&quot; /&gt;&lt;/rect&gt;&lt;/svg&gt;" class="attachment-large size-large wp-image-451" alt="" loading="lazy" data-public-id="2-1.png" data-format="png" data-transformations="f_auto,q_auto" data-version="1651507183" data-responsive="1" data-size="1080 1080" data-delivery="upload" onload=";window.CLDBind?CLDBind(this):null;" data-cloudinary="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -413,7 +413,7 @@
 		<link>https://m-morales.com/portfolio/hostal-viena/</link>
 					<comments>https://m-morales.com/portfolio/hostal-viena/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Manuel Morales]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 20:15:53 +0000</pubDate>
 				<category><![CDATA[Portfolio]]></category>
 		<guid isPermaLink="false">https://m-morales.com/?p=312</guid>

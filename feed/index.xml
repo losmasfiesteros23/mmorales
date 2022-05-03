@@ -48,7 +48,7 @@
 								<div class="elementor-element elementor-element-4349d3b elementor-widget elementor-widget-image" data-id="4349d3b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.6.5 - 27-04-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1080" height="1080" src="https://res.cloudinary.com/focuslearn/images/w_1080,h_1080,c_fill/f_auto,q_auto/v1651507112/lok/lok.jpg?_i=AA" class="attachment-full size-full wp-image-519" alt="" loading="lazy" data-public-id="lok.jpg" data-format="jpg" data-transformations="f_auto,q_auto" data-version="1651507112" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1080" height="1080" src="data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;1080&quot; height=&quot;1080&quot;&gt;&lt;rect width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;animate attributeName=&quot;fill&quot; values=&quot;rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)&quot; dur=&quot;2s&quot; repeatCount=&quot;indefinite&quot; /&gt;&lt;/rect&gt;&lt;/svg&gt;" class="attachment-full size-full wp-image-519" alt="" loading="lazy" data-public-id="lok.jpg" data-format="jpg" data-transformations="f_auto,q_auto" data-version="1651507112" data-responsive="1" data-size="1080 1080" data-delivery="upload" onload=";window.CLDBind?CLDBind(this):null;" data-cloudinary="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -235,7 +235,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-50f74aa elementor-widget elementor-widget-image" data-id="50f74aa" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="600" height="2210" src="https://res.cloudinary.com/focuslearn/images/w_600,h_2210/f_auto,q_auto/v1651507124/c5053c107026877.5f9d6b2a82c1c/c5053c107026877.5f9d6b2a82c1c.png?_i=AA" class="attachment-full size-full wp-image-483" alt="" loading="lazy" data-public-id="c5053c107026877.5f9d6b2a82c1c.png" data-format="png" data-transformations="f_auto,q_auto" data-version="1651507124" />															</div>
+															<img width="600" height="2210" src="data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;600&quot; height=&quot;2210&quot;&gt;&lt;rect width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;animate attributeName=&quot;fill&quot; values=&quot;rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)&quot; dur=&quot;2s&quot; repeatCount=&quot;indefinite&quot; /&gt;&lt;/rect&gt;&lt;/svg&gt;" class="attachment-full size-full wp-image-483" alt="" loading="lazy" data-public-id="c5053c107026877.5f9d6b2a82c1c.png" data-format="png" data-transformations="f_auto,q_auto" data-version="1651507124" data-responsive="1" data-size="600 2210" data-delivery="upload" onload=";window.CLDBind?CLDBind(this):null;" data-cloudinary="lazy" />															</div>
 				</div>
 					</div>
 		</div>
